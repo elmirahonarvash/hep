@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "hep"
+    }
+  },
+  "defaultProject": "hep",
+  "cli": {
+    "analytics": false
+  }
 }
